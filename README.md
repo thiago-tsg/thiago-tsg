@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou O Thiago sILVAB Gonçalves
+# 👋 Olá, eu sou O Thiago Silva Gonçalves
 
 ## 🚀 Desenvolvedor Front-End & Full Stack
 
