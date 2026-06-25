@@ -1,53 +1,60 @@
-# 👋 Olá, eu sou O Thiago Silva Gonçalves
+# 👋 Olá, eu sou Thiago Silva Gonçalves
 
-## 🚀 Desenvolvedor Front-End & Full Stack
+## 🚀 Desenvolvedor Front-End
 
-Desenvolvedor especializado em React.js, JavaScript e aplicações web modernas, com experiência na construção de interfaces escaláveis, integração com APIs e desenvolvimento full stack.
+Desenvolvedor Front-End com foco em React.js, JavaScript e aplicações web modernas. Tenho experiência na criação de interfaces responsivas, integração com APIs e implementação de funcionalidades utilizando Firebase para autenticação e banco de dados.
 
-Atuo criando soluções focadas em performance, usabilidade e experiência do usuário.
+Também possuo conhecimentos em Node.js para criação de servidores e suporte a integrações, incluindo APIs de pagamento e serviços externos.
+
+Busco desenvolver soluções com foco em usabilidade, performance e organização de código.
 
 ---
 
 ## 💻 Tecnologias e Ferramentas
 
 ### Front-End
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- WordPress
+
+* React.js
+* Gulp
+* JavaScript (ES6+)
+* HTML5
+* CSS3 / SCSS
+* WordPress
 
 ### Back-End & Integrações
-- Node.js
-- Firebase
-- APIs REST
 
-### DevOps & Infraestrutura
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Render
+* Node.js
+* Firebase
+* APIs REST
+* Integração de Pagamentos
 
-### Design & Ferramentas
-- Figma
-- Photoshop
+### Ferramentas & Deploy
+
+* Git & GitHub
+* GitHub Actions
+* Render
+
+### Design
+
+* Figma
+* Photoshop
 
 ---
 
 ## 📚 Formação & Certificações
 
-- Rocketseat — Discover
-- Rocketseat — Git & GitHub
-- Curso em Vídeo — HTML, CSS e JavaScript
-- Udemy — JavaScript Avançado
-- Google — HTML & CSS
-- SEBRAE — Web Design
+* Rocketseat — Discover
+* Rocketseat — Git & GitHub
+* Curso em Vídeo — HTML, CSS e JavaScript
+* Udemy — JavaScript Avançado
+* Google — HTML & CSS
+* SEBRAE — Web Design
 
 ---
 
 ## 📫 Contato
 
-📧 thiagosg.div@gmail.com
+📧 [thiagosg.div@gmail.com](mailto:thiagosg.div@gmail.com)
 
 📍 São Paulo - SP
 
@@ -55,7 +62,7 @@ Atuo criando soluções focadas em performance, usabilidade e experiência do us
 
 ## ⚡ Atualmente
 
-- Aprimorando arquitetura Front-End
-- Evoluindo em aplicações Full Stack
-- Desenvolvendo projetos modernos com React & Node.js
-- Estudando performance, escalabilidade e UX
+* Aprimorando minhas habilidades em React.js e JavaScript
+* Desenvolvendo aplicações com integração de APIs e Firebase
+* Explorando Node.js para criação de serviços e automações
+* Estudando performance, boas práticas e experiência do usuário
